@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Ceasar Cipher Encription             |  The project writes algorithm to encrypt or decrypt internal meessages            | https://github.com/Kennymaur/BOOTCAMP-1.git      |
+| 1 |  Ceasar Cipher Encription.            |  The project writes algorithm to encrypt or decrypt internal meessages            | https://github.com/Kennymaur/BOOTCAMP-1.git      |
 | 2 |  Store sales Review           |  To determine Analysis on Data            | https://github.com/Kennymaur/BOOTCAMP-2.git       |
 | 3 |  Mortgage Calculator             | it estmates the monthly payment of a loan         | https://github.com/Kennymaur/BOOTCAMP-3.git      |
 
